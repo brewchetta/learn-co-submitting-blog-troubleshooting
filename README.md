@@ -18,4 +18,4 @@ A repo for pages should have automatically been created when you publish your bl
 
 ### Why Doesn't My Blog Have Styling?
 
-The styling template for your blog should have gotten created when it was published, but sometimes it doesn't. The easiest way to get around this is to delete your `github.io` repo and attempt to publish from learn.co again. If you had to manually create your page with the steps above, you may have to reach out for the various files to add styling to your pages.
+The styling template for your blog should have gotten created when it was published, but sometimes it doesn't. The easiest way to get around this is to delete your pages repo using the steps above and attempt to publish from learn.co again. If you had to manually create your pages repo, you may have to reach out to an instructor for the various files to add styling to your pages.
