@@ -1,6 +1,6 @@
 # Troubleshooting Guide: Submitting Your Blog Through Learn-Co
 
-If you're having trouble submitting your blog through the learn-co website, you aren't alone! In order to publish a blog, learn-co hosts its blogs through [github pages](https://pages.github.com/). More often than not, it's an issue with creating the repository that causes issues.
+If you're having trouble submitting your blog through the learn-co website, you aren't alone! In order to publish a blog, learn-co hosts its blogs through [github pages](https://pages.github.com/). More often than not, it's an issue with creating the repository that causes publishing to fail.
 
 ### First: 
 See if you already have github pages set up. Search for one of your repositories called `username.github.io` where `username` is (you guessed it) your github username!
