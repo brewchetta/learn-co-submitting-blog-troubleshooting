@@ -2,7 +2,11 @@
 
 If you're having trouble submitting your blog through the learn-co website, you aren't alone! In order to publish a blog, learn-co hosts its blogs through [github pages](https://pages.github.com/). More often than not, it's an issue with creating the repository that causes publishing to fail.
 
-### First: 
+### Markdown:
+
+Make sure your blog doesn't use any illegal characters or conventions. Blogs utilize [markdown](https://www.markdownguide.org/cheat-sheet/) and if it isn't properly formatted for markdown, it can't be published.
+
+### Github Pages:
 
 See if you already have github pages set up. Search for one of your repositories called `username.github.io` where `username` is (you guessed it) your github username!
 
