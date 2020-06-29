@@ -12,5 +12,3 @@ You'll need to delete it. Click on settings and scroll all the way down to the b
 
 ### If You Don't Have A Repo
 A repo for pages should have automatically been created by learn.co but sometimes it doesn't work as intended. Since something went wrong, we'll need to create it manually. Create a new repository by clicking the "+" in the upper right corner of the page. You want to name it `username.github.io` where `username` is your github username. Once that's been done, attempt to publish your blog again.
-
-*If you're having additional issues or troubleshooting thoughts, contact Chett Tiller on slack.*
